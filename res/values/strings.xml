@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QVFile</string>
+    <string name="copy">Copy</string>
+    <string name="is_not_completed">is not completed</string>
+    <string name="copying">Copying</string>
+    <string name="to">to</string>
+    <string name="copied">Copied</string>
+    <string name="fail_to_list">Failed to list the files</string>
+
+</resources>
